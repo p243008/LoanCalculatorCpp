@@ -1,0 +1,3 @@
+default_amount=10000
+default_interest=10
+default_years=6
